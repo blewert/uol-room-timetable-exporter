@@ -42,15 +42,11 @@ f.close();
 
 data = obj["returned"]["timetableEntries"];
 
-
-
 items = []
 
 for entry in data:
 	if entry["weeksMap"][current_week] == "1":
 		items.append(entry)
-
-
 
 rows = ["name", "start", "end", "cell_colour", "timetable_id", "created_at", "updated_at"]
 

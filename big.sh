@@ -1,9 +1,10 @@
-
 # 2 = 1102
 # 3 = 1301
 # 4 = 1101
 # 5 = 2102
 # 6 = 2305
+
+mkdir dump
 
 python main.py inb1102 2
 python main.py inb1301 3
