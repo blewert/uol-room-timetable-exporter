@@ -1,0 +1,19 @@
+{
+	"timetable_ids": {
+		"inb1101": 4,
+		"inb1102": 2,
+		"inb1301": 3,
+		"inb2102": 5,
+		"inb2305": 6
+	},
+	"colors": {
+		"default": "#ffffff",
+		"lecture": "#ff00ff",
+		"workshop": "#ffff00",
+		"maintenance": "#ff0000"
+	},
+	"default_room": "inb1101",
+	"current_week": 1,
+	"current_week_start_date": "Oct 11 2021 00:00AM",
+	"default_cell_color": "#ffffff"
+}
